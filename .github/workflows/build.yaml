@@ -7,7 +7,7 @@ on:
 env:
   TEST: test
   TEST2: test2
-  USER: Jacekpr
+  USER: jacekpr
   REPO: training_GitHubActions_start
 jobs:
   build:
